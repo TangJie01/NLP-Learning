@@ -1,2 +1,2 @@
-# Low-Resource-NLP-Learning
+# NLP-Learning
 Before entering graduate school, my learning records related to NLP.
