@@ -10,13 +10,13 @@ Before entering graduate school, my learning records related to NLP.
 
 ### 核心任务清单
 
-**环境搭建**：完成 Kaggle、VS Code、Git、Markdown 工具链配置。
-**基础语法**：掌握变量、循环、条件判断（已完成）。
-**核心数据结构**：熟练掌握列表、字典、元组、集合的增删改查。
-**函数与模块**：编写可复用的函数，理解 `import` 的各种姿势。
-**类与对象**：理解 `self`、`__init__`，能封装简单的类（如 `Passenger`）。
-**文件 I/O**：熟练使用 `with open` 读写 TXT/CSV 文件，掌握 `'a'` 追加模式。
-**高阶工具**：掌握 `lambda`、`map`、`zip` 及正则表达式的文本清洗。
+*   **环境搭建**：完成 Kaggle、VS Code、Git、Markdown 工具链配置。
+*   **基础语法**：掌握变量、循环、条件判断（已完成）。
+*   **核心数据结构**：熟练掌握列表、字典、元组、集合的增删改查。
+*   **函数与模块**：编写可复用的函数，理解 `import` 的各种姿势。
+*   **类与对象**：理解 `self`、`__init__`，能封装简单的类（如 `Passenger`）。
+*   **文件 I/O**：熟练使用 `with open` 读写 TXT/CSV 文件，掌握 `'a'` 追加模式。
+*   **高阶工具**：掌握 `lambda`、`map`、`zip` 及正则表达式的文本清洗。
 
 ### 第一阶段工具链与环境
 
